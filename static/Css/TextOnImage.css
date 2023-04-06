@@ -1,0 +1,5 @@
+body{
+    background-image: url("/static/images/paris.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
